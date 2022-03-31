@@ -1,13 +1,6 @@
-# Module 5 Team Problem Set
+# Module 7 Pair Programming Problem Set
 
-Please complete one problem from the Module 5 Problem Set with a partner. The other problem will be completed on your own.
-
----
-
-### Instructions
-- Create a separate file for each program.
-- Name each file according to the name on the assignment page.
-- When you are finished, be sure to sync (commit and push) your code to GitHub
+Please complete the final problem from the Module 7 Problem Set with a partner or partners.
 
 ---
 
